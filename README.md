@@ -2,7 +2,7 @@
 
 A powerful and intuitive Streamlit application that creates interactive before/after image comparisons using a dynamic vertical slider. Perfect for visualizing changes over time, documenting progress, or showing transformations.
 
-![App Demo](https://via.placeholder.com/800x400?text=Before%2FAfter+Comparison+Demo)
+![App Demo](images/example.png)
 
 ## 🌟 Features
 
